@@ -1,0 +1,17 @@
+{
+	"name": "Vimium C",
+	"@time": "6/11/2020, 1:50:46 PM",
+	"time": 1591897846894,
+	"environment": {
+		"extension": "1.83.3",
+		"platform": "win",
+		"chrome": 81
+	},
+	"keyMappings": [
+		"map K zoomIn",
+		"map J zoomOut",
+		"map U previousTab",
+		"map I nextTab",
+		""
+	]
+}
